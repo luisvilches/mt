@@ -1,0 +1,33 @@
+{
+  "name": "brainfesv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aes256": "^1.0.4",
+    "bcrypt": "^3.0.7",
+    "bscript": "^0.1.0",
+    "connect-multiparty": "^2.2.0",
+    "continuation-local-storage": "^3.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.24.0",
+    "mongoose": "^5.8.10",
+    "mongoose-timestamp": "^0.6.0",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vilchesluis@bitbucket.org/jpablomartinez/brainfesv2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/jpablomartinez/brainfesv2#readme"
+}
